@@ -1,1 +1,1 @@
-# Machine-Learning-Code-From-Scratcg
+# Machine-Learning-Code-From-Scratch
